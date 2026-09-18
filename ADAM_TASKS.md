@@ -34,7 +34,11 @@ it is Markdown formatting and renders as bold and bullets on GitHub.*
 
 ---
 
-## A3 — Create the empty GitHub repository
+## A3 — GitHub repository  ✅ done (via the GitHub CLI, signed in once in the browser)
+
+Repo: https://github.com/adamsamazin/custom-llm-nanogpt — the browser steps below are no longer needed.
+
+<details><summary>Original manual steps (not needed)</summary>
 
 1. Open your browser and go to **https://github.com/new** (sign in as `adamsamazin` if asked).
 2. **Repository name:** `custom-llm-nanogpt`
@@ -52,11 +56,75 @@ it is Markdown formatting and renders as bold and bullets on GitHub.*
 *If the push asks you for a login:* a Windows window titled "Connect to GitHub" may pop
 up the first time. Choose **Sign in with your browser**, approve, and it will remember you.
 
+</details>
+
 ---
 
-## A4 — Chat with your trained model  (later — I'll tell you when)
+## A4 — Chat with your trained model  ← do this now
 
-## A5 — Embedding viewer screenshots  (later)
+This is the "working result" evidence: you typing prompts into the trained model and
+it replying. The transcript is saved automatically; you take one screenshot.
+
+1. In the repo folder, **double-click `chat.bat`**. A black console window opens.
+   *If Windows shows "Windows protected your PC": click **More info → Run anyway**.
+   It's the two-line script you can open in Notepad.*
+2. After a second you will see:
+   ```
+   Tiny language model: short continuations, not a general assistant.
+   Each prompt starts fresh. Context: 48 tokens. Type /quit to exit.
+   You:
+   ```
+3. Type the first prompt exactly as written (lowercase, no punctuation), press **Enter**,
+   and wait for the `Model:` line. Then type the next one. Use these five, in order:
+
+   | # | Type this | Why |
+   |---|---|---|
+   | 1 | `the team discussed the surgeon` | Starter-corpus territory — should be fluent |
+   | 2 | `the opposite of noisy is` | A skill the corpus extension taught |
+   | 3 | `the cup is not green .it is pink .the cup is` | Negation — expected to fail (the space-free `.it` is deliberate; see README) |
+   | 4 | `my neighbor bought a laptop` | Contains words the model never saw — shows the "Unknown words:" message |
+   | 5 | anything you like | Your own question — try asking it something a chatbot would answer |
+
+4. Type `/quit` and press Enter. You'll see `Saved transcript: results\expanded\chat\chat_...json`.
+5. **Screenshot before closing the window:** press **Win + Shift + S**, drag a box around the
+   whole console window, release. A "Snip saved to clipboard" popup appears.
+6. Open **Paint** (Start menu → type Paint), press **Ctrl + V**, then **File → Save as → PNG**.
+   Save it as **`chat_screenshot.png`** inside the folder
+   `custom-llm-nanogpt\results\expanded\chat\`
+   (in the Save dialog, paste the full path from step 4's message minus the filename, or
+   click through OneDrive → Documents → Claude → Fundamentals of Agentic AI → Assignment 3… → custom-llm-nanogpt → results → expanded → chat).
+7. Press any key in the console window to close it. Tell me "chat done".
+
+*What "normal" looks like:* replies are short lowercase sentence fragments, sometimes
+odd. Prompt 3 will very likely answer with the wrong colour — that's the expected
+failure and it goes in the README. Prompt 4 will print `Unknown words: ...` under the reply.
+
+*If it errors:* copy the red text and paste it to me.
+
+---
+
+## A5 — Embedding viewer screenshots  ← after A4
+
+The viewer is a web page that runs in your browser with no install. It shows where
+each word sits in the model's 64-number space, squashed to 3D.
+
+1. In the repo folder, double-click **`embedding-viewer.html`**. It opens in your browser.
+2. Click **Open your checkpoint** (a button near the top).
+3. In the file picker, go to `custom-llm-nanogpt\results\expanded\` and choose **`checkpoint.json`**.
+4. The point cloud loads. In the word menu (a search box or dropdown), select **`customer`**.
+   You should see its 64 numbers and its three nearest neighbours (expect client, consumer, subscriber or similar).
+5. **Win + Shift + S**, snip the whole viewer, paste into Paint, save as
+   `results\expanded\viewer_customer.png`.
+6. Now select **`kitten`**, and snip again → `results\expanded\viewer_kitten.png`.
+   (Its neighbours will include *puppy* — and also *carrot* and *salmon*, which is a
+   finding we'll explain in the README.)
+7. If the viewer has an "initial / final" or "before / after" toggle, click it once for
+   `customer` and notice how the neighbours change from random words to shopping words.
+   No screenshot needed for that.
+8. Tell me "viewer done".
+
+*If the page is blank or the button does nothing:* try a different browser (Edge or
+Chrome), and tell me which one you used.
 
 ## A6 — Your "What I learned" answers  (later)
 
