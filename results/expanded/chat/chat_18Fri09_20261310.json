@@ -1,0 +1,71 @@
+{
+  "model": "results\\expanded\\model.pt",
+  "model_sha256": "f2d72372f8bb6ab256537be3c948272892f0d367360735b8c923d1047e3602bb",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the team discussed the surgeon",
+      "seed": 2026,
+      "response": "and the patient at the hospital .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of noisy is",
+      "seed": 2027,
+      "response": "near .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the cup is not green .it is pink .the cup is",
+      "seed": 2028,
+      "response": "orange .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "my neighbor bought a laptop",
+      "seed": 2029,
+      "response": "the new taxi .",
+      "unknown_prompt_words": [
+        "laptop",
+        "neighbor"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "apartments and houses are",
+      "seed": 2030,
+      "response": "opposites .",
+      "unknown_prompt_words": [
+        "apartments",
+        "houses"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "i received a call on the phone",
+      "seed": 2031,
+      "response": ".",
+      "unknown_prompt_words": [
+        "phone",
+        "received"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the bicycle is faster than",
+      "seed": 2032,
+      "response": "the jar and travel .",
+      "unknown_prompt_words": [
+        "faster",
+        "than"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}
