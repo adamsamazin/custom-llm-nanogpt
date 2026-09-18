@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "file": "categories.txt",
+      "bytes": 21038,
+      "sha256": "3402ac266dc8f28d7fec5ca4823b6f9c370db37dcf5d92440904e877f7961734",
+      "warnings": [],
+      "characters": 21038,
+      "passages": 584,
+      "unique_passages": 551,
+      "preview": "a sparrow is a bird .\r\nthe sparrow is a bird .\r\nan eagle is a bird .\r\neagle belongs with the other bird kind .\r\na crow is a bird .\r\ncrow belongs with the other bird kind .\r\nan owl is a bird .\r\nwe call an owl a bird .\r\na hawk is a bird .\r\nhawk belongs with the other bird kind .\r\na swan is a bird .\r\ne"
+    },
+    {
+      "file": "grammar.txt",
+      "bytes": 25106,
+      "sha256": "8c042acc4b9dad19226edbdb0811aadf28a40ee821fb22dd81adf72a31cc076e",
+      "warnings": [],
+      "characters": 25106,
+      "passages": 720,
+      "unique_passages": 663,
+      "preview": "the cow is ready .\r\nthe women are ready .\r\none cow is in the road .\r\nthe boys were in the road yesterday .\r\nthe cat is busy today .\r\ntwo dogs were busy yesterday .\r\nthe man is in the field .\r\nthe boys are at the field now .\r\none cat is small today .\r\nthose dogs are small .\r\none girl was in the road "
+    },
+    {
+      "file": "negation.txt",
+      "bytes": 31687,
+      "sha256": "b511fe213f8a15077edcf087836fab4bf8bc8a3faac2b264e0dfe33516c10196",
+      "warnings": [],
+      "characters": 31687,
+      "passages": 635,
+      "unique_passages": 615,
+      "preview": "my ball is not pink .my ball is red .the ball is red .\r\ndan has a hat .it is not grey .it is brown .the hat is brown .\r\nmax has a kite .it is not yellow .it is green .the kite is green .\r\nthe shirt is not blue .it is pink .the shirt is pink .\r\nmy car is not black .my car is green .the car is green ."
+    },
+    {
+      "file": "opposites.txt",
+      "bytes": 17284,
+      "sha256": "c98dd9a8dcb786eb539f00765be8619d54cf2db744288957514460419af7817a",
+      "warnings": [],
+      "characters": 17284,
+      "passages": 518,
+      "unique_passages": 399,
+      "preview": "big is the opposite of small .\r\nthe opposite of small is big .\r\nsmall is the opposite of big .\r\nthe opposite of big is small .\r\nthe opposite of tall is short .\r\nthe opposite of tall is short .\r\ntall is the opposite of short .\r\nthe opposite of tall is short .\r\nthe opposite of short is long .\r\nthe opp"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 2457,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 6820,
+  "new_unique_passages": 2228,
+  "duplicates_removed": 1837,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}
