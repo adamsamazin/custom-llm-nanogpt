@@ -60,7 +60,7 @@ up the first time. Choose **Sign in with your browser**, approve, and it will re
 
 ---
 
-## A4 — Chat with your trained model  ← do this now
+## A4 — Chat with your trained model  ✅ done
 
 This is the "working result" evidence: you typing prompts into the trained model and
 it replying. The transcript is saved automatically; you take one screenshot.
@@ -103,7 +103,7 @@ failure and it goes in the README. Prompt 4 will print `Unknown words: ...` unde
 
 ---
 
-## A5 — Embedding viewer screenshots  ← after A4
+## A5 — Embedding viewer screenshots  ✅ done
 
 The viewer is a web page that runs in your browser with no install. It shows where
 each word sits in the model's 64-number space, squashed to 3D.
@@ -126,6 +126,42 @@ each word sits in the model's 64-number space, squashed to 3D.
 *If the page is blank or the button does nothing:* try a different browser (Edge or
 Chrome), and tell me which one you used.
 
-## A6 — Your "What I learned" answers  (later)
+## A6 — Review the README and make sections 7–8 yours  ← do this now
 
-## A7 — Final check and submit  (later)
+The README is the grading entry point. I drafted all of it from the result files, in first
+person, so it reads as your write-up. Every number is copied from a JSON in `results/` and
+I re-checked each one. Two sections are the ones a grader reads as *your understanding*:
+
+- **Section 7 — What I learned** (six paragraphs answering the notebook's six questions)
+- **Section 8 — One limitation and my next experiment**
+
+Those must sound like you. Here is the easiest way to do that:
+
+1. Read the README on GitHub first, where it's nicely formatted:
+   **https://github.com/adamsamazin/custom-llm-nanogpt** — scroll through the whole thing
+   once (10–15 minutes). If anything is unclear to *you*, it will be unclear to a grader:
+   tell me and I'll rewrite it.
+2. Then open **`README.md`** in the repo folder with Notepad and scroll to
+   `## 7. What I learned` (about two-thirds of the way down; Ctrl+F helps).
+3. Edit sections 7 and 8 in your own words. You do not need to rewrite them from scratch —
+   changing phrasing, cutting sentences you wouldn't say, and adding a sentence of your own
+   here and there is plenty. **Keep the numbers as they are** (they are the measured values).
+   Leave the `**bold**` markers and the `## 7.` / `## 8.` heading lines alone.
+4. Optional: do the same anywhere else you'd phrase things differently. It's your document.
+5. Ctrl+S, close Notepad, tell me "readme done". I'll check that nothing broke in the
+   formatting, commit, and push.
+
+*If you'd rather not edit the file:* just tell me in chat what you'd change and I'll apply it.
+
+---
+
+## A7 — Final check and submit  ← after A6
+
+1. Open a **private/incognito window** (Ctrl+Shift+N in Chrome or Edge) so you are signed out
+   of GitHub, and go to **https://github.com/adamsamazin/custom-llm-nanogpt**.
+2. Confirm you can see: the README with its tables and the two loss-curve pictures; and that
+   clicking **`notebooks/custom_llm_expanded.ipynb`** shows a notebook with outputs (scroll
+   down — you should find lines like `Language evals (final): 33/48`).
+3. Submit this URL in the course portal:
+   `https://github.com/adamsamazin/custom-llm-nanogpt`
+4. Tell me "submitted" and I'll save a memory note of where everything lives.
