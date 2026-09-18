@@ -1,0 +1,12 @@
+# Keep LF everywhere so the notebook's SHA-256 checks on the pinned files pass on any OS.
+* text=auto eol=lf
+# Pinned files: never convert line endings.
+run_evals.py -text
+chat.py -text
+evals/language_evals.json -text
+nanogpt_model.py -text
+custom_llm.ipynb -text
+*.ipynb -text
+*.pt binary
+*.png binary
+*.zip binary
