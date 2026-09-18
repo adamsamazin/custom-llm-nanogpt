@@ -1,0 +1,12 @@
+# Python environment lives outside the repo at C:\venvs\nanogpt
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw run folders and ZIPs written by the notebook. Curated copies are committed under results/.
+llm_runs/
+*.zip
+
+# Scratch executions (setup checks)
+scratch*.ipynb
