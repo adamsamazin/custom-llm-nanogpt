@@ -4,9 +4,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Raw run folders and ZIPs written by the notebook. Curated copies are committed under results/.
+# Raw run folders written by the notebook (their ZIPs included). Curated copies are committed under results/.
 llm_runs/
-*.zip
 
 # Scratch executions (setup checks)
 scratch*.ipynb

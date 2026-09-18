@@ -54,8 +54,23 @@ extension skills *opposites*, *categories and analogies*, *grammar*, and *negati
 new unique passages. All four are my own text (generated from word lists and sentence
 frames by `make_corpus.py`, the same way the notebook builds its classroom sentences), so
 there is nothing to get permission for and the files are committed in full. No PDFs were
-used, so there were no extraction warnings; `corpus_manifest.json` for the expanded run
-shows four files, 2,457 passages, zero ignored files and zero warnings.
+used, so there were no extraction warnings; [`corpus_manifest.json`](results/expanded/corpus_manifest.json)
+for the expanded run shows four files, 2,457 passages, zero ignored files and zero warnings
+(the starter run's [manifest](results/starter/corpus_manifest.json) shows zero files).
+
+| File | Passages (unique) | What it teaches | Eval cases it targets |
+|---|---|---|---|
+| [`corpus/opposites.txt`](corpus/opposites.txt) | 518 (399) | `the opposite of X is Y` with 30 untested pairs; the tested pairs hot/cold, empty/full, noisy/quiet only in other frames (`hot and cold are opposites`, `the soup is hot but the snow is cold`, `when it is not hot it is cold`) | lang_28–30 |
+| [`corpus/categories.txt`](corpus/categories.txt) | 584 (551) | `a trout is a fish`, `an oak is a tree`, `a foal grows into a horse` across ten categories; two-sentence passages so the second clause is answered from its own subject; the tested facts (robin, salmon, carrot, apple, puppy, kitten) only in frames like `the small robin is a bird`, `a kitten is a young cat` | lang_46–48 |
+| [`corpus/grammar.txt`](corpus/grammar.txt) | 720 (663) | singular/plural subjects × is/are/was/were/am; `yesterday … walked`, `today … walks`, `… is walking now`, `every day … walk`; the tested verb *walk* weighted 3× | lang_25–27 |
+| [`corpus/negation.txt`](corpus/negation.txt) | 635 (615) | three-sentence corrections `X is not A . it is B . X is B` over colours, foods and states with 14 names and 10 objects; the tested objects (box, door, ava) appear only in unrelated support sentences | lang_31–33 |
+
+The gap each file addresses is the same in kind: the starter corpus contains none of the
+words these tests use — not even *is*, *not*, *it* or *she* — so all 24 extension cases were
+unscorable before. The files supply the words in varied sentences and, for the three
+"local pattern" skills, hundreds of examples of the frame the test uses with *different*
+word pairs, so that the model has to combine a learned frame with a learned association
+rather than recall one sentence. Section 5 reports what happened case by case.
 
 I chose opposites, categories and grammar because each is a short, local pattern — a frame
 plus a word pair — that a 2-block, 64-number model can plausibly memorize from varied
@@ -116,6 +131,20 @@ Why 3,000 steps takes 16 seconds: the network is 0.11M parameters and a batch is
 passages of at most 48 tokens. Each step is a few hundred thousand multiply-adds. The
 parameter count differs between runs only because the embedding table grew from 136×64 to
 503×64 (and its tied output layer with it).
+
+**What stayed fixed, what training changed, what changed only at inference.** Fixed
+across both experiments and both stages of each: the architecture (2 blocks, 4 heads, 64
+dimensions, 48-token context), the seed (42) and therefore the initialization and the
+90/10 split, the two 20-passage evaluation panels, the sample generation settings
+(temperature 0.8, seed 2026, four draws of up to 32 tokens), the 48 eval cases and their
+scoring rule, and the eval runner's own settings (temperature 0.8, per-case seeds, 24
+tokens). Between experiments, exactly one input changed: the contents of `corpus/`, which
+changes the vocabulary and therefore the embedding table's row count. Training changed
+only the weights — 111,872 or 135,360 numbers — through 3,000 AdamW updates. Nothing else
+in the pipeline is learned. At inference, the only knobs that moved were the temperature
+(0.3 / 0.8 / 1.2 in the comparison), the sampling seed (per chat turn and per eval case),
+and the prompt; the weights were hashed before and after every eval and chat session to
+prove they did not.
 
 Vocabulary reports: [starter](results/starter/vocabulary_report.json),
 [expanded](results/expanded/vocabulary_report.json). The 509-type cap never bit: the
@@ -300,7 +329,8 @@ vectors" panel agrees with `neighbors.py` to three decimals
 | 1,500 | 0.852 | 0.850 |
 | 3,000 | 0.790 | 0.793 |
 
-Source: [`history.json`](results/expanded/history.json). The untrained loss is higher than
+Source: [`history.json`](results/expanded/history.json), [`training.csv`](results/expanded/training.csv);
+same fixed 20-passage panels. The untrained loss is higher than
 in experiment 1 because ln(503) = 6.22: a bigger vocabulary means a bigger uniform guess.
 The final loss is also higher (0.79 vs 0.71) and that comparison means little — the panels
 contain different passages from a differently shaped corpus, and the teaching sentences
@@ -308,12 +338,31 @@ have more free slots per template than the classroom ones. Losses across corpora
 ranking.
 
 Samples ([step 0](results/expanded/samples/step_0000.txt), [1,500](results/expanded/samples/step_1500.txt),
-[3,000](results/expanded/samples/step_3000.txt)): the untrained draw is again word salad
-(`two professor understand car brand gold room far duck route duckling tuna frog …`). All
-four step-1,500 and step-3,000 samples are classroom templates, e.g. `the customer compared
-the product after checking the price .` — none of the four default draws landed in a
-teaching sentence, which is consistent with the classroom passages being 67% of the
-training set. The temperature comparison did surface them:
+[3,000](results/expanded/samples/step_3000.txt)), same settings as experiment 1. Untrained
+(first sample, truncated): `two professor understand car brand gold room far duck route
+duckling tuna frog key called physician review …` — word salad again, now drawing on both
+vocabularies.
+
+Step 1,500:
+```
+our school has a question about the important professor and learning .
+the customer compared the product after checking the price .
+today the store focused on purchase and the important buyer .
+we learned about the new bus during a discussion of journey .
+```
+
+Step 3,000:
+```
+our school has a question about the new professor and learning .
+the customer compared the product after checking the price .
+today the store focused on purchase and the important buyer .
+we learned about the new bus during a discussion of journey .
+```
+
+All eight are classroom templates; the only change from 1,500 to 3,000 is one adjective
+(`important` → `new`). None of the four default draws landed in a teaching sentence, which
+is consistent with the classroom passages being 67% of the training set. The temperature
+comparison did surface them:
 
 | T | Samples ([file](results/expanded/temperature_comparison.json)) |
 |---|---|
@@ -327,7 +376,10 @@ the model composed it from the `{plural subject} are {adjective}` frame) and als
 splice: `… the new teacher and product is a loan .`, a classroom frame that wandered into a
 categories frame at `is a`. With a richer corpus, temperature has something to reveal.
 
-Inspection for this run ([`inspection.json`](results/expanded/inspection.json)): `customer`
+Inspection for this run ([`tokenization.json`](results/expanded/tokenization.json),
+[`inspection.json`](results/expanded/inspection.json)): the first training passage is
+`we learned about the important merchandise during a discussion of price .` → IDs
+`[1, 479, 240, 6, 423, 205, 266, 137, 5, 124, 283, 328, 3, 2]`, and `customer`
 is now ID 107 (IDs are alphabetical positions, so they change whenever the vocabulary
 does — another reminder that the ID carries no meaning). First update: before −0.0203447,
 gradient +0.0018429, learning rate 1e-5, after −0.0203547, again a move of exactly −1e-5.
