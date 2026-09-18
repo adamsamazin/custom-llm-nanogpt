@@ -1,0 +1,37 @@
+== 1. Leakage check (exact normalized prompt match) ==
+  categories.txt: 584 passages, 551 unique, 143 word types  ok
+  grammar.txt: 720 passages, 663 unique, 96 word types  ok
+  negation.txt: 635 passages, 615 unique, 138 word types  ok
+  opposites.txt: 518 passages, 399 unique, 151 word types  ok
+
+== 2. Vocabulary simulation ==
+  reserved classroom passages: 160 | unique passages: 6,820 (classroom 4,592 + new 2,228) | train 6,138
+  training word types: 500 | retained: 500 (cap 509) | omitted: 0 | count needed to stay in vocabulary: 0
+  lang_25 [grammar] SCORABLE
+      one=54, bird=88, is=1565, are=117, were=30, am=24
+  lang_26 [grammar] SCORABLE
+      the=8820, dogs=43, is=1565, am=24, was=953, are=117
+  lang_27 [grammar] SCORABLE
+      yesterday=890, she=108, walking=23, walk=65, walked=63, walks=11
+  lang_28 [opposites] SCORABLE
+      the=8820, opposite=74, of=1483, hot=35, is=1565, fast=12, cold=47, warm=28, heavy=13
+  lang_29 [opposites] SCORABLE
+      the=8820, opposite=74, of=1483, empty=55, is=1565, full=57, quiet=39, early=15, soft=21
+  lang_30 [opposites] SCORABLE
+      the=8820, opposite=74, of=1483, noisy=30, is=1565, loud=15, round=14, late=23, quiet=39
+  lang_31 [negation] SCORABLE
+      the=8820, box=88, is=1565, not=480, red=51, .=7112, it=352, blue=51, green=38, yellow=55
+  lang_32 [negation] SCORABLE
+      ava=31, did=136, not=480, buy=15, tea=36, .=7112, she=108, bought=30, milk=43, rice=37, bread=30
+  lang_33 [negation] SCORABLE
+      the=8820, door=63, is=1565, not=480, open=43, .=7112, it=352, closed=27, wide=19, missing=32
+  lang_46 [categories_and_analogies] SCORABLE
+      a=3064, robin=31, is=1565, bird=88, .=7112, salmon=32, tree=30, tool=36, fish=72
+  lang_47 [categories_and_analogies] SCORABLE
+      a=3064, puppy=35, grows=87, into=87, dog=68, .=7112, kitten=36, duck=16, goat=15, cat=53, horse=17
+  lang_48 [categories_and_analogies] SCORABLE
+      a=3064, carrot=31, is=1565, vegetable=74, .=7112, an=64, apple=115, fabric=31, fruit=180, metal=36, vehicle=32
+  => 36/48 cases would be scorable
+
+== 3. Spirit check (answer-bearing phrases in any passage) ==
+  none

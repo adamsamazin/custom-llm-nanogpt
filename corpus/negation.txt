@@ -1,0 +1,635 @@
+my ball is not pink .my ball is red .the ball is red .
+dan has a hat .it is not grey .it is brown .the hat is brown .
+max has a kite .it is not yellow .it is green .the kite is green .
+the shirt is not blue .it is pink .the shirt is pink .
+my car is not black .my car is green .the car is green .
+the hat is not red .it is orange .so the hat is orange .
+the ball is not blue .it is black .the ball is black .
+the bag is not pink .it is green .the bag is green .
+the bag is not pink .it is yellow .so the bag is yellow .
+the coat is not blue .it is yellow .the coat is yellow .
+the hat was not white .it was blue .the hat was blue .
+the cup is not yellow .it is orange .the cup is orange .
+my shirt is not brown .my shirt is orange .the shirt is orange .
+the coat is not yellow .it is black .the coat is black .
+the kite was not grey .it was pink .the kite was pink .
+the kite is not grey .it is pink .so the kite is pink .
+the coat is not brown .it is yellow .the coat is yellow .
+the sock is not yellow .it is pink .so the sock is pink .
+ben has a sock .it is not grey .it is blue .the sock is blue .
+the coat was not red .it was orange .the coat was orange .
+the car is not yellow .it is pink .so the car is pink .
+the bag was not brown .it was yellow .the bag was yellow .
+the cup was not black .it was red .the cup was red .
+the shirt is not grey .it is yellow .the shirt is yellow .
+tom has a car .it is not black .it is red .the car is red .
+the bag is not grey .it is green .the bag is green .
+tom has a hat .it is not black .it is red .the hat is red .
+my car is not orange .my car is brown .the car is brown .
+the coat was not blue .it was orange .the coat was orange .
+the bag is not pink .it is orange .the bag is orange .
+dan has a coat .it is not yellow .it is brown .the coat is brown .
+my pen is not brown .my pen is orange .the pen is orange .
+the bag was not blue .it was red .the bag was red .
+the bag was not yellow .it was green .the bag was green .
+my kite is not black .my kite is white .the kite is white .
+cara has a sock .it is not green .it is brown .the sock is brown .
+the ball was not blue .it was grey .the ball was grey .
+max has a hat .it is not red .it is pink .the hat is pink .
+the kite is not pink .it is blue .the kite is blue .
+the coat is not black .it is grey .the coat is grey .
+the coat was not white .it was green .the coat was green .
+my hat is not red .my hat is orange .the hat is orange .
+the ball is not blue .it is orange .so the ball is orange .
+cara has a kite .it is not grey .it is blue .the kite is blue .
+the coat is not pink .it is black .so the coat is black .
+my shirt is not grey .my shirt is brown .the shirt is brown .
+the cup is not blue .it is orange .the cup is orange .
+the kite was not yellow .it was black .the kite was black .
+ava has a bag .it is not green .it is brown .the bag is brown .
+my pen is not orange .my pen is white .the pen is white .
+my bag is not grey .my bag is blue .the bag is blue .
+the pen is not white .it is yellow .the pen is yellow .
+eli has a shirt .it is not grey .it is orange .the shirt is orange .
+jon has a shirt .it is not yellow .it is brown .the shirt is brown .
+the kite was not orange .it was yellow .the kite was yellow .
+my bag is not orange .my bag is yellow .the bag is yellow .
+ben has a car .it is not grey .it is red .the car is red .
+my car is not white .my car is black .the car is black .
+the ball is not brown .it is pink .the ball is pink .
+my bag is not blue .my bag is green .the bag is green .
+the coat was not red .it was yellow .the coat was yellow .
+my coat is not yellow .my coat is white .the coat is white .
+the bag was not brown .it was orange .the bag was orange .
+jon has a ball .it is not brown .it is green .the ball is green .
+the sock is not pink .it is red .the sock is red .
+cara has a ball .it is not blue .it is grey .the ball is grey .
+fay has a bag .it is not pink .it is orange .the bag is orange .
+my kite is not white .my kite is green .the kite is green .
+my car is not green .my car is blue .the car is blue .
+the sock is not yellow .it is pink .the sock is pink .
+my sock is not green .my sock is orange .the sock is orange .
+the ball is not white .it is black .the ball is black .
+the bag was not yellow .it was brown .the bag was brown .
+the ball was not brown .it was pink .the ball was pink .
+the coat is not yellow .it is brown .so the coat is brown .
+the cup was not orange .it was blue .the cup was blue .
+the kite was not grey .it was blue .the kite was blue .
+my bag is not yellow .my bag is red .the bag is red .
+my cup is not blue .my cup is red .the cup is red .
+the pen was not grey .it was green .the pen was green .
+eli has a car .it is not grey .it is pink .the car is pink .
+my coat is not green .my coat is yellow .the coat is yellow .
+dan has a shirt .it is not orange .it is brown .the shirt is brown .
+jon has a kite .it is not white .it is red .the kite is red .
+fay has a sock .it is not blue .it is red .the sock is red .
+my bag is not black .my bag is brown .the bag is brown .
+my pen is not pink .my pen is orange .the pen is orange .
+the shirt is not blue .it is green .the shirt is green .
+the ball is not green .it is yellow .so the ball is yellow .
+the pen was not white .it was yellow .the pen was yellow .
+the pen is not red .it is green .the pen is green .
+the car was not pink .it was blue .the car was blue .
+the cup was not red .it was pink .the cup was pink .
+the sock is not blue .it is brown .so the sock is brown .
+dan has a cup .it is not orange .it is brown .the cup is brown .
+the bag is not pink .it is brown .the bag is brown .
+my sock is not red .my sock is white .the sock is white .
+the coat is not yellow .it is orange .the coat is orange .
+the cup was not blue .it was red .the cup was red .
+the pen is not pink .it is white .the pen is white .
+the kite was not brown .it was white .the kite was white .
+my bag is not brown .my bag is blue .the bag is blue .
+the sock is not brown .it is blue .the sock is blue .
+the coat was not blue .it was pink .the coat was pink .
+my sock is not orange .my sock is red .the sock is red .
+the pen was not black .it was red .the pen was red .
+the kite was not black .it was red .the kite was red .
+the ball is not white .it is pink .the ball is pink .
+fay has a bag .it is not orange .it is red .the bag is red .
+the sock is not yellow .it is brown .the sock is brown .
+my coat is not pink .my coat is grey .the coat is grey .
+my car is not orange .my car is pink .the car is pink .
+cara has a cup .it is not black .it is red .the cup is red .
+the cup is not yellow .it is red .so the cup is red .
+the bag is not yellow .it is brown .so the bag is brown .
+my sock is not orange .my sock is white .the sock is white .
+my car is not blue .my car is yellow .the car is yellow .
+the coat was not white .it was green .the coat was green .
+the car is not grey .it is black .the car is black .
+the sock is not black .it is pink .the sock is pink .
+my car is not red .my car is brown .the car is brown .
+the hat is not white .it is orange .so the hat is orange .
+the coat is not green .it is black .the coat is black .
+the kite is not blue .it is pink .so the kite is pink .
+cara has a pen .it is not blue .it is yellow .the pen is yellow .
+zoe has a ball .it is not red .it is orange .the ball is orange .
+my hat is not green .my hat is pink .the hat is pink .
+the shirt was not green .it was orange .the shirt was orange .
+eli has a car .it is not orange .it is pink .the car is pink .
+my kite is not grey .my kite is green .the kite is green .
+the shirt is not green .it is yellow .the shirt is yellow .
+the hat is not yellow .it is black .the hat is black .
+mia has a bag .it is not white .it is blue .the bag is blue .
+the pen is not grey .it is green .the pen is green .
+the hat is not white .it is brown .so the hat is brown .
+the ball was not blue .it was red .the ball was red .
+the hat is not green .it is yellow .the hat is yellow .
+the coat was not pink .it was blue .the coat was blue .
+the shirt was not yellow .it was orange .the shirt was orange .
+the shirt is not pink .it is grey .so the shirt is grey .
+gus has a coat .it is not blue .it is black .the coat is black .
+gus has a bag .it is not blue .it is yellow .the bag is yellow .
+the pen was not black .it was yellow .the pen was yellow .
+the bag was not brown .it was blue .the bag was blue .
+the hat was not orange .it was pink .the hat was pink .
+the bag is not pink .it is black .the bag is black .
+the ball was not grey .it was green .the ball was green .
+gus has a ball .it is not red .it is pink .the ball is pink .
+the coat is not blue .it is grey .the coat is grey .
+my coat is not green .my coat is black .the coat is black .
+she did not take cake .cara took eggs .cara took eggs today .
+eli did not choose juice .he chose corn instead .eli chose corn .
+cara did not take coffee .she took water .cara took water .
+he did not buy soup .gus bought water .gus bought water today .
+she did not want jam .fay wanted tea .fay wanted tea today .
+gus did not want corn .he wanted coffee .gus wanted coffee .
+ben did not want soup .he wanted jam instead .ben wanted jam .
+he did not pick juice .gus picked coffee .gus picked coffee today .
+max did not cook cake .he cooked jam .max cooked jam .
+dan did not eat soup .he ate water .dan ate water .
+kim did not choose the jam .she chose the coffee .so kim chose the coffee .
+kim did not cook coffee .she cooked rice instead .kim cooked rice .
+max did not order the water .he ordered the jam .so max ordered the jam .
+he did not cook cake .eli cooked eggs .eli cooked eggs today .
+ava did not choose juice .she chose water instead .ava chose water .
+max did not buy the rice .he bought the tea .so max bought the tea .
+he did not eat bread .eli ate corn .eli ate corn today .
+he did not take eggs .tom took water .tom took water today .
+jon did not eat rice .he ate coffee instead .jon ate coffee .
+mia did not eat the jam .she ate the rice .so mia ate the rice .
+fay did not eat the rice .she ate the water .so fay ate the water .
+max did not cook bread .he cooked milk .max cooked milk .
+he did not choose cake .ben chose tea .ben chose tea today .
+max did not take cake .he took eggs instead .max took eggs .
+eli did not drink eggs .he drank rice instead .eli drank rice .
+zoe did not choose corn .she chose cake instead .zoe chose cake .
+kim did not cook water .she cooked milk instead .kim cooked milk .
+eli did not pick coffee .he picked soup instead .eli picked soup .
+he did not eat water .max ate cake .max ate cake today .
+he did not pick tea .dan picked corn .dan picked corn today .
+mia did not cook the coffee .she cooked the cake .so mia cooked the cake .
+ivy did not want the juice .she wanted the bread .so ivy wanted the bread .
+dan did not pick the water .he picked the eggs .so dan picked the eggs .
+zoe did not cook milk .she cooked tea .zoe cooked tea .
+kim did not order the corn .she ordered the jam .so kim ordered the jam .
+ivy did not want jam .she wanted coffee instead .ivy wanted coffee .
+ivy did not buy the eggs .she bought the bread .so ivy bought the bread .
+ivy did not buy the corn .she bought the soup .so ivy bought the soup .
+max did not drink coffee .he drank eggs instead .max drank eggs .
+eli did not order eggs .he ordered juice instead .eli ordered juice .
+mia did not want the soup .she wanted the jam .so mia wanted the jam .
+ava did not eat soup .she ate cake instead .ava ate cake .
+kim did not drink the rice .she drank the jam .so kim drank the jam .
+ben did not pick juice .he picked rice .ben picked rice .
+eli did not take the water .he took the jam .so eli took the jam .
+max did not choose the soup .he chose the coffee .so max chose the coffee .
+eli did not buy bread .he bought cake instead .eli bought cake .
+fay did not want the jam .she wanted the soup .so fay wanted the soup .
+ava did not take the soup .she took the tea .so ava took the tea .
+cara did not want the cake .she wanted the milk .so cara wanted the milk .
+she did not eat water .fay ate rice .fay ate rice today .
+he did not eat juice .eli ate eggs .eli ate eggs today .
+eli did not pick water .he picked corn .eli picked corn .
+fay did not cook juice .she cooked soup instead .fay cooked soup .
+ivy did not choose cake .she chose rice instead .ivy chose rice .
+eli did not eat bread .he ate corn instead .eli ate corn .
+ava did not want corn .she wanted water instead .ava wanted water .
+cara did not order the coffee .she ordered the eggs .so cara ordered the eggs .
+zoe did not choose cake .she chose coffee .zoe chose coffee .
+he did not want jam .dan wanted water .dan wanted water today .
+dan did not buy corn .he bought cake .dan bought cake .
+he did not take cake .ben took milk .ben took milk today .
+cara did not order water .she ordered rice .cara ordered rice .
+jon did not drink the jam .he drank the rice .so jon drank the rice .
+he did not pick eggs .dan picked milk .dan picked milk today .
+fay did not cook bread .she cooked cake .fay cooked cake .
+ivy did not choose bread .she chose corn .ivy chose corn .
+mia did not choose corn .she chose bread .mia chose bread .
+fay did not drink the milk .she drank the bread .so fay drank the bread .
+fay did not eat jam .she ate milk .fay ate milk .
+eli did not cook the eggs .he cooked the corn .so eli cooked the corn .
+tom did not pick soup .he picked water .tom picked water .
+dan did not choose rice .he chose milk instead .dan chose milk .
+she did not pick coffee .zoe picked juice .zoe picked juice today .
+dan did not eat coffee .he ate milk .dan ate milk .
+she did not drink tea .kim drank water .kim drank water today .
+she did not take soup .ivy took tea .ivy took tea today .
+kim did not take the water .she took the tea .so kim took the tea .
+cara did not choose bread .she chose corn instead .cara chose corn .
+cara did not buy the coffee .she bought the corn .so cara bought the corn .
+cara did not choose jam .she chose cake .cara chose cake .
+gus did not cook corn .he cooked tea .gus cooked tea .
+she did not buy jam .ivy bought rice .ivy bought rice today .
+he did not choose rice .tom chose corn .tom chose corn today .
+tom did not drink the water .he drank the jam .so tom drank the jam .
+he did not eat bread .eli ate milk .eli ate milk today .
+max did not pick juice .he picked milk instead .max picked milk .
+jon did not want rice .he wanted tea .jon wanted tea .
+fay did not want cake .she wanted bread .fay wanted bread .
+ava did not cook rice .she cooked tea .ava cooked tea .
+she did not choose coffee .ivy chose bread .ivy chose bread today .
+he did not want rice .eli wanted water .eli wanted water today .
+tom did not choose the rice .he chose the tea .so tom chose the tea .
+jon did not want cake .he wanted milk instead .jon wanted milk .
+ivy did not eat milk .she ate cake instead .ivy ate cake .
+max did not buy coffee .he bought soup .max bought soup .
+ivy did not cook juice .she cooked tea instead .ivy cooked tea .
+fay did not cook coffee .she cooked jam .fay cooked jam .
+gus did not want the water .he wanted the corn .so gus wanted the corn .
+jon did not cook the rice .he cooked the jam .so jon cooked the jam .
+she did not take juice .fay took milk .fay took milk today .
+she did not pick corn .ava picked milk .ava picked milk today .
+ivy did not choose rice .she chose juice .ivy chose juice .
+fay did not buy bread .she bought juice .fay bought juice .
+she did not buy corn .cara bought soup .cara bought soup today .
+max did not pick tea .he picked bread instead .max picked bread .
+she did not take corn .ivy took eggs .ivy took eggs today .
+gus did not eat the bread .he ate the rice .so gus ate the rice .
+ben did not pick juice .he picked eggs instead .ben picked eggs .
+ava did not cook corn .she cooked bread .ava cooked bread .
+she did not choose coffee .mia chose juice .mia chose juice today .
+tom did not drink milk .he drank juice .tom drank juice .
+gus did not cook bread .he cooked water .gus cooked water .
+kim did not want eggs .she wanted cake instead .kim wanted cake .
+kim did not pick milk .she picked eggs instead .kim picked eggs .
+mia did not order the cake .she ordered the milk .so mia ordered the milk .
+she did not buy milk .zoe bought soup .zoe bought soup today .
+kim did not drink the coffee .she drank the water .so kim drank the water .
+zoe did not buy the eggs .she bought the milk .so zoe bought the milk .
+jon did not want rice .he wanted soup instead .jon wanted soup .
+jon did not take the soup .he took the juice .so jon took the juice .
+she did not drink soup .ivy drank corn .ivy drank corn today .
+he did not drink juice .dan drank bread .dan drank bread today .
+cara did not want corn .she wanted cake instead .cara wanted cake .
+he did not take jam .gus took eggs .gus took eggs today .
+cara did not pick the tea .she picked the jam .so cara picked the jam .
+cara did not order cake .she ordered coffee instead .cara ordered coffee .
+gus did not take the rice .he took the corn .so gus took the corn .
+mia did not choose water .she chose corn instead .mia chose corn .
+cara did not drink the coffee .she drank the cake .so cara drank the cake .
+ava did not cook the rice .she cooked the milk .so ava cooked the milk .
+he did not want milk .ben wanted soup .ben wanted soup today .
+fay did not want the soup .she wanted the corn .so fay wanted the corn .
+max did not buy corn .he bought juice .max bought juice .
+kim did not buy juice .she bought soup .kim bought soup .
+she did not cook bread .zoe cooked corn .zoe cooked corn today .
+jon did not pick the eggs .he picked the tea .so jon picked the tea .
+eli did not eat the jam .he ate the coffee .so eli ate the coffee .
+tom did not order soup .he ordered milk instead .tom ordered milk .
+tom did not pick the soup .he picked the corn .so tom picked the corn .
+kim did not eat bread .she ate tea .kim ate tea .
+kim did not cook cake .she cooked juice instead .kim cooked juice .
+max did not cook cake .he cooked soup instead .max cooked soup .
+max did not drink the coffee .he drank the corn .so max drank the corn .
+cara did not eat water .she ate rice .cara ate rice .
+he did not pick water .dan picked corn .dan picked corn today .
+she did not order corn .cara ordered jam .cara ordered jam today .
+cara did not buy cake .she bought milk .cara bought milk .
+max did not pick rice .he picked tea .max picked tea .
+tom did not drink the rice .he drank the soup .so tom drank the soup .
+the window is not clean .it is dirty .so the window is dirty .
+the road is not wide .it is narrow .so the road is narrow .
+the bottle is not full .it is empty .so the bottle is empty .
+the shop is not cold .it is warm .so the shop is warm .
+the cage is not hot .it is cold .so the cage is cold .
+the shop is not empty now .it is full .the shop is full .
+the shop was not clean .it was dirty .the shop was dirty .
+the jar was not hot .it was cold .the jar was cold .
+the window was not clean .it was dirty .the window was dirty .
+the cage is not closed .it is locked .the cage is locked .
+the window was not dry .it was wet .the window was wet .
+the window was not open .it was broken .the window was broken .
+the lid is not closed now .it is locked .the lid is locked .
+the gate is not clean .it is dirty .the gate is dirty .
+the window is not open now .it is broken .the window is broken .
+the bottle is not full .it is empty .the bottle is empty .
+the shop was not broken .it was fixed .the shop was fixed .
+the window was not full .it was empty .the window was empty .
+the lid is not wide .it is narrow .so the lid is narrow .
+the cage is not cold .it is warm .the cage is warm .
+the lid was not empty .it was full .the lid was full .
+the window was not broken .it was fixed .the window was fixed .
+the gate is not full now .it is empty .the gate is empty .
+the lid was not missing .it was here .the lid was here .
+the cage is not empty .it is full .so the cage is full .
+the window was not missing .it was here .the window was here .
+the window is not broken .it is fixed .so the window is fixed .
+the road is not open .it is locked .the road is locked .
+the bottle is not clean .it is dirty .so the bottle is dirty .
+the road is not clean .it is dirty .the road is dirty .
+the shop is not closed .it is open .the shop is open .
+the shop is not wide now .it is narrow .the shop is narrow .
+the gate is not closed .it is open .the gate is open .
+the jar is not open .it is locked .so the jar is locked .
+the shop is not hot .it is cold .so the shop is cold .
+the shop is not closed now .it is locked .the shop is locked .
+the cage was not missing .it was here .the cage was here .
+the gate is not closed .it is locked .so the gate is locked .
+the lid is not empty now .it is full .the lid is full .
+the gate is not full now .it is empty .the gate is empty .
+the shop is not wide now .it is narrow .the shop is narrow .
+the shop was not dry .it was wet .the shop was wet .
+the gate is not broken now .it is fixed .the gate is fixed .
+the shop was not open .it was locked .the shop was locked .
+the cage is not broken now .it is fixed .the cage is fixed .
+the lid is not dry .it is wet .the lid is wet .
+the cage is not open .it is locked .the cage is locked .
+the cage is not locked .it is open .the cage is open .
+the road is not full .it is empty .so the road is empty .
+the bottle is not wide now .it is narrow .the bottle is narrow .
+the window is not cold now .it is warm .the window is warm .
+the bottle was not clean .it was dirty .the bottle was dirty .
+the cage is not closed .it is locked .so the cage is locked .
+the road is not locked now .it is open .the road is open .
+the window was not clean .it was dirty .the window was dirty .
+the shop is not clean now .it is dirty .the shop is dirty .
+the jar is not closed .it is open .so the jar is open .
+the jar was not closed .it was open .the jar was open .
+the gate was not hot .it was cold .the gate was cold .
+the bottle is not open .it is locked .the bottle is locked .
+the road is not empty now .it is full .the road is full .
+the bottle is not missing .it is here .so the bottle is here .
+the cage is not cold now .it is warm .the cage is warm .
+the bottle is not hot .it is cold .the bottle is cold .
+the window was not cold .it was warm .the window was warm .
+the shop is not wide .it is narrow .the shop is narrow .
+the cage is not closed .it is locked .so the cage is locked .
+the jar was not empty .it was full .the jar was full .
+the window is not full .it is empty .the window is empty .
+the lid is not full now .it is empty .the lid is empty .
+the window was not closed .it was locked .the window was locked .
+the lid was not broken .it was fixed .the lid was fixed .
+the bottle is not open .it is broken .so the bottle is broken .
+the gate is not dry .it is wet .the gate is wet .
+the cage was not clean .it was dirty .the cage was dirty .
+the jar is not clean .it is dirty .the jar is dirty .
+the gate is not full .it is empty .so the gate is empty .
+the road was not clean .it was dirty .the road was dirty .
+the lid is not empty .it is full .the lid is full .
+the window was not clean .it was dirty .the window was dirty .
+the lid is not locked now .it is open .the lid is open .
+the bottle is not closed .it is locked .the bottle is locked .
+the lid is not hot .it is cold .the lid is cold .
+the bottle is not empty .it is full .the bottle is full .
+the lid is not open .it is locked .the lid is locked .
+the jar is not clean now .it is dirty .the jar is dirty .
+the window was not dry .it was wet .the window was wet .
+the window was not clean .it was dirty .the window was dirty .
+the lid is not locked .it is open .so the lid is open .
+the window is not broken now .it is fixed .the window is fixed .
+the cage is not missing .it is here .so the cage is here .
+the shop was not broken .it was fixed .the shop was fixed .
+the lid is not closed now .it is locked .the lid is locked .
+the bottle is not hot .it is cold .so the bottle is cold .
+the window is not closed .it is locked .the window is locked .
+the gate is not open now .it is broken .the gate is broken .
+the lid is not open now .it is broken .the lid is broken .
+the road was not closed .it was locked .the road was locked .
+the road is not closed .it is open .the road is open .
+the window is not closed .it is locked .so the window is locked .
+the shop is not empty now .it is full .the shop is full .
+the shop is not broken .it is fixed .the shop is fixed .
+the gate was not dry .it was wet .the gate was wet .
+the lid is not open .it is locked .the lid is locked .
+the road is not empty .it is full .so the road is full .
+the jar is not dry .it is wet .the jar is wet .
+the cage is not closed .it is open .the cage is open .
+the jar is not locked .it is open .so the jar is open .
+the jar is not locked now .it is open .the jar is open .
+the window is not full now .it is empty .the window is empty .
+the lid is not cold .it is warm .so the lid is warm .
+the road is not cold .it is warm .so the road is warm .
+the lid is not hot now .it is cold .the lid is cold .
+the shop is not clean .it is dirty .the shop is dirty .
+the window is not cold now .it is warm .the window is warm .
+the window is not locked .it is open .so the window is open .
+the lid is not closed .it is locked .so the lid is locked .
+the window is not dry now .it is wet .the window is wet .
+the cage is not cold now .it is warm .the cage is warm .
+the shop is not dry now .it is wet .the shop is wet .
+the box was heavy .
+ben put the hat in the box .
+the box has a lid .
+a cup is in the box .
+the big box was full .
+kim opened the box .
+there is a pen in the box .
+the box was empty .
+the door was locked last night .
+the old door was heavy .
+a door has a key .
+tom painted the door .
+the door of the shop was open .
+gus fixed the door .
+the door was wide .
+mia opened the door .
+the road is wide .
+a wide road has room for a bus .
+the river is wide here .
+my sock is missing .
+the key is missing .
+one pen is missing from the bag .
+the gate is wide open .
+the shop is closed at night .
+the window is closed .
+ava is in the garden .
+ava was at the market .
+ava has a red kite .
+ava is happy today .
+the rice is hot .
+the bread is soft .
+the milk is cold .
+the tea is warm .
+ava put the cup in the box .
+ava put the hat in the box .
+ava put the car in the box .
+ava put the ball in the box .
+ava put the bag in the box .
+ben put the cup in the box .
+ben put the hat in the box .
+ben put the car in the box .
+ben put the ball in the box .
+ben put the bag in the box .
+cara put the cup in the box .
+cara put the hat in the box .
+cara put the car in the box .
+cara put the ball in the box .
+cara put the bag in the box .
+dan put the cup in the box .
+dan put the hat in the box .
+dan put the car in the box .
+dan put the ball in the box .
+dan put the bag in the box .
+eli put the cup in the box .
+eli put the hat in the box .
+eli put the car in the box .
+eli put the ball in the box .
+eli put the bag in the box .
+fay put the cup in the box .
+fay put the hat in the box .
+fay put the car in the box .
+fay put the ball in the box .
+fay put the bag in the box .
+gus put the cup in the box .
+gus put the hat in the box .
+gus put the car in the box .
+gus put the ball in the box .
+gus put the bag in the box .
+ivy put the cup in the box .
+ivy put the hat in the box .
+ivy put the car in the box .
+ivy put the ball in the box .
+ivy put the bag in the box .
+jon put the cup in the box .
+jon put the hat in the box .
+jon put the car in the box .
+jon put the ball in the box .
+jon put the bag in the box .
+kim put the cup in the box .
+kim put the hat in the box .
+kim put the car in the box .
+kim put the ball in the box .
+kim put the bag in the box .
+max put the cup in the box .
+max put the hat in the box .
+max put the car in the box .
+max put the ball in the box .
+max put the bag in the box .
+mia put the cup in the box .
+mia put the hat in the box .
+mia put the car in the box .
+mia put the ball in the box .
+mia put the bag in the box .
+tom put the cup in the box .
+tom put the hat in the box .
+tom put the car in the box .
+tom put the ball in the box .
+tom put the bag in the box .
+zoe put the cup in the box .
+zoe put the hat in the box .
+zoe put the car in the box .
+zoe put the ball in the box .
+zoe put the bag in the box .
+the box was heavy .
+the box was empty .
+the box was full .
+the box was big .
+the box was small .
+the box was old .
+the box was new .
+the box was clean .
+the box is heavy .
+the box is empty .
+the box is full .
+the box is big .
+the box is small .
+the box is old .
+the box is new .
+the box is clean .
+ava opened the door .
+ben opened the door .
+cara opened the door .
+dan opened the door .
+eli opened the door .
+fay opened the door .
+gus opened the door .
+ivy opened the door .
+jon opened the door .
+kim opened the door .
+max opened the door .
+mia opened the door .
+tom opened the door .
+zoe opened the door .
+ava painted the door red .
+ava painted the door blue .
+ava painted the door green .
+ava painted the door yellow .
+ben painted the door red .
+ben painted the door blue .
+ben painted the door green .
+ben painted the door yellow .
+cara painted the door red .
+cara painted the door blue .
+cara painted the door green .
+cara painted the door yellow .
+dan painted the door red .
+dan painted the door blue .
+dan painted the door green .
+dan painted the door yellow .
+eli painted the door red .
+eli painted the door blue .
+eli painted the door green .
+eli painted the door yellow .
+fay painted the door red .
+fay painted the door blue .
+fay painted the door green .
+fay painted the door yellow .
+the door was heavy .
+the door was empty .
+the door was full .
+the door was big .
+the door was small .
+the door was old .
+the door was new .
+the door was clean .
+ava knocked on the door .
+ben knocked on the door .
+cara knocked on the door .
+dan knocked on the door .
+eli knocked on the door .
+fay knocked on the door .
+gus knocked on the door .
+ivy knocked on the door .
+jon knocked on the door .
+kim knocked on the door .
+max knocked on the door .
+mia knocked on the door .
+tom knocked on the door .
+zoe knocked on the door .
+the road is wide .
+the river is wide .
+the gate is wide .
+the field is wide .
+the street is wide .
+the window is wide .
+my cup is missing .
+my hat is missing .
+my car is missing .
+my ball is missing .
+my bag is missing .
+my shirt is missing .
+my coat is missing .
+my pen is missing .
+my sock is missing .
+my kite is missing .
+ava said the cup is missing .
+ava said the hat is missing .
+ava said the car is missing .
+ava said the ball is missing .
+ben said the cup is missing .
+ben said the hat is missing .
+ben said the car is missing .
+ben said the ball is missing .
+cara said the cup is missing .
+cara said the hat is missing .
+cara said the car is missing .
+cara said the ball is missing .
+dan said the cup is missing .
+dan said the hat is missing .
+dan said the car is missing .
+dan said the ball is missing .
+eli said the cup is missing .
+eli said the hat is missing .
+eli said the car is missing .
+eli said the ball is missing .

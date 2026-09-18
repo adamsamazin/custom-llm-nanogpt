@@ -1,0 +1,584 @@
+a sparrow is a bird .
+the sparrow is a bird .
+an eagle is a bird .
+eagle belongs with the other bird kind .
+a crow is a bird .
+crow belongs with the other bird kind .
+an owl is a bird .
+we call an owl a bird .
+a hawk is a bird .
+hawk belongs with the other bird kind .
+a swan is a bird .
+every swan is a bird .
+a trout is a fish .
+the trout is a fish .
+a shark is a fish .
+we call a shark a fish .
+a tuna is a fish .
+the tuna is a fish .
+a cod is a fish .
+the cod is a fish .
+a carp is a fish .
+we call a carp a fish .
+an eel is a fish .
+every eel is a fish .
+a dog is an animal .
+every dog is an animal .
+a cat is an animal .
+we call a cat an animal .
+a horse is an animal .
+horse belongs with the other animal kind .
+a goat is an animal .
+the goat is an animal .
+a cow is an animal .
+we call a cow an animal .
+a sheep is an animal .
+every sheep is an animal .
+a pig is an animal .
+every pig is an animal .
+a bear is an animal .
+bear belongs with the other animal kind .
+a duck is an animal .
+every duck is an animal .
+an onion is a vegetable .
+the onion is a vegetable .
+a potato is a vegetable .
+every potato is a vegetable .
+a bean is a vegetable .
+we call a bean a vegetable .
+a pea is a vegetable .
+we call a pea a vegetable .
+a cabbage is a vegetable .
+we call a cabbage a vegetable .
+a lettuce is a vegetable .
+the lettuce is a vegetable .
+a banana is a fruit .
+the banana is a fruit .
+a pear is a fruit .
+the pear is a fruit .
+a peach is a fruit .
+we call a peach a fruit .
+a mango is a fruit .
+we call a mango a fruit .
+a grape is a fruit .
+the grape is a fruit .
+a lemon is a fruit .
+every lemon is a fruit .
+an oak is a tree .
+oak belongs with the other tree kind .
+a pine is a tree .
+pine belongs with the other tree kind .
+a maple is a tree .
+maple belongs with the other tree kind .
+a birch is a tree .
+birch belongs with the other tree kind .
+an elm is a tree .
+elm belongs with the other tree kind .
+a willow is a tree .
+willow belongs with the other tree kind .
+a hammer is a tool .
+hammer belongs with the other tool kind .
+a saw is a tool .
+the saw is a tool .
+a drill is a tool .
+we call a drill a tool .
+a wrench is a tool .
+the wrench is a tool .
+a shovel is a tool .
+the shovel is a tool .
+a rake is a tool .
+the rake is a tool .
+cotton is a fabric .
+the cotton is a fabric .
+wool is a fabric .
+the wool is a fabric .
+silk is a fabric .
+silk belongs with the other fabric kind .
+linen is a fabric .
+the linen is a fabric .
+denim is a fabric .
+denim belongs with the other fabric kind .
+velvet is a fabric .
+every velvet is a fabric .
+iron is a metal .
+we call an iron a metal .
+copper is a metal .
+copper belongs with the other metal kind .
+gold is a metal .
+the gold is a metal .
+silver is a metal .
+the silver is a metal .
+tin is a metal .
+every tin is a metal .
+steel is a metal .
+we call a steel a metal .
+a car is a vehicle .
+every car is a vehicle .
+a bus is a vehicle .
+every bus is a vehicle .
+a truck is a vehicle .
+every truck is a vehicle .
+a van is a vehicle .
+we call a van a vehicle .
+a jeep is a vehicle .
+the jeep is a vehicle .
+a boat is a vehicle .
+we call a boat a vehicle .
+a bus is a vehicle .a bean is a vegetable .
+a crow is a bird .steel is a metal .
+a pig is an animal .a horse is an animal .
+a shark is a fish .an owl is a bird .
+a dog is an animal .a willow is a tree .
+a boat is a vehicle .copper is a metal .
+an elm is a tree .a dog is an animal .
+a truck is a vehicle .a hawk is a bird .
+a bean is a vegetable .a lemon is a fruit .
+tin is a metal .an eel is a fish .
+a pear is a fruit .a willow is a tree .
+a cow is an animal .denim is a fabric .
+denim is a fabric .a wrench is a tool .
+a van is a vehicle .a sparrow is a bird .
+a trout is a fish .a saw is a tool .
+a willow is a tree .cotton is a fabric .
+a hammer is a tool .a potato is a vegetable .
+a cat is an animal .a crow is a bird .
+a bean is a vegetable .an onion is a vegetable .
+a cod is a fish .a crow is a bird .
+a cat is an animal .a cow is an animal .
+a crow is a bird .a willow is a tree .
+wool is a fabric .a drill is a tool .
+a bus is a vehicle .a cat is an animal .
+copper is a metal .a sparrow is a bird .
+copper is a metal .a duck is an animal .
+a lettuce is a vegetable .a shovel is a tool .
+a bean is a vegetable .an eel is a fish .
+a hammer is a tool .a bear is an animal .
+a hawk is a bird .a cat is an animal .
+a crow is a bird .velvet is a fabric .
+a grape is a fruit .a maple is a tree .
+a mango is a fruit .a hawk is a bird .
+a lettuce is a vegetable .a trout is a fish .
+velvet is a fabric .a cabbage is a vegetable .
+a wrench is a tool .a maple is a tree .
+a cod is a fish .a saw is a tool .
+a pine is a tree .a swan is a bird .
+a drill is a tool .a carp is a fish .
+a cabbage is a vegetable .a rake is a tool .
+a sheep is an animal .a lettuce is a vegetable .
+a pig is an animal .a wrench is a tool .
+a bear is an animal .a lettuce is a vegetable .
+a jeep is a vehicle .an owl is a bird .
+a bear is an animal .silk is a fabric .
+a birch is a tree .steel is a metal .
+a potato is a vegetable .a lettuce is a vegetable .
+a lettuce is a vegetable .an eagle is a bird .
+tin is a metal .denim is a fabric .
+iron is a metal .a bean is a vegetable .
+a drill is a tool .a dog is an animal .
+a cabbage is a vegetable .wool is a fabric .
+a cabbage is a vegetable .a cat is an animal .
+a van is a vehicle .a sparrow is a bird .
+a banana is a fruit .a car is a vehicle .
+a carp is a fish .a banana is a fruit .
+a shark is a fish .copper is a metal .
+a swan is a bird .a cabbage is a vegetable .
+a birch is a tree .steel is a metal .
+a bean is a vegetable .a peach is a fruit .
+denim is a fabric .a carp is a fish .
+a tuna is a fish .a sparrow is a bird .
+an owl is a bird .a maple is a tree .
+a cod is a fish .a drill is a tool .
+iron is a metal .a bus is a vehicle .
+a cabbage is a vegetable .a swan is a bird .
+a birch is a tree .a hammer is a tool .
+a truck is a vehicle .a bean is a vegetable .
+silk is a fabric .a lemon is a fruit .
+a carp is a fish .a cod is a fish .
+a potato is a vegetable .a pig is an animal .
+a carp is a fish .an oak is a tree .
+a carp is a fish .a truck is a vehicle .
+a hawk is a bird .a trout is a fish .
+a pea is a vegetable .a grape is a fruit .
+linen is a fabric .iron is a metal .
+velvet is a fabric .a jeep is a vehicle .
+iron is a metal .a dog is an animal .
+a bear is an animal .a tuna is a fish .
+gold is a metal .a van is a vehicle .
+a crow is a bird .a boat is a vehicle .
+a bus is a vehicle .a mango is a fruit .
+a duck is an animal .an owl is a bird .
+a willow is a tree .a truck is a vehicle .
+a saw is a tool .a pea is a vegetable .
+a swan is a bird .a car is a vehicle .
+cotton is a fabric .a hammer is a tool .
+a rake is a tool .copper is a metal .
+a car is a vehicle .a carp is a fish .
+a saw is a tool .velvet is a fabric .
+silver is a metal .a horse is an animal .
+a hammer is a tool .a cabbage is a vegetable .
+a hammer is a tool .silver is a metal .
+a dog is an animal .gold is a metal .
+a mango is a fruit .an eel is a fish .
+a birch is a tree .a cat is an animal .
+a crow is a bird .a cabbage is a vegetable .
+a van is a vehicle .an oak is a tree .
+a carp is a fish .a pea is a vegetable .
+a potato is a vegetable .a shark is a fish .
+a cod is a fish .a goat is an animal .
+a boat is a vehicle .wool is a fabric .
+copper is a metal .a car is a vehicle .
+a dog is an animal .a crow is a bird .
+steel is a metal .a maple is a tree .
+gold is a metal .linen is a fabric .
+a shovel is a tool .a crow is a bird .
+a wrench is a tool .gold is a metal .
+a duck is an animal .a shark is a fish .
+a pea is a vegetable .a willow is a tree .
+a peach is a fruit .a maple is a tree .
+silver is a metal .a saw is a tool .
+denim is a fabric .a bear is an animal .
+a drill is a tool .a lettuce is a vegetable .
+a bear is an animal .an elm is a tree .
+a goat is an animal .a banana is a fruit .
+a pea is a vegetable .a wrench is a tool .
+a bean is a vegetable .a pear is a fruit .
+a lemon is a fruit .a pear is a fruit .
+an eel is a fish .an eagle is a bird .
+a sparrow is a bird .a hammer is a tool .
+a grape is a fruit .a peach is a fruit .
+a goat is an animal .a pear is a fruit .
+linen is a fabric .a hammer is a tool .
+denim is a fabric .copper is a metal .
+a peach is a fruit .gold is a metal .
+an eel is a fish .iron is a metal .
+a mango is a fruit .a cabbage is a vegetable .
+a trout is a fish .a hawk is a bird .
+a tuna is a fish .a potato is a vegetable .
+a banana is a fruit .a bean is a vegetable .
+a swan is a bird .iron is a metal .
+a pear is a fruit .a lemon is a fruit .
+a lemon is a fruit .a wrench is a tool .
+a crow is a bird .a saw is a tool .
+a tuna is a fish .a swan is a bird .
+a truck is a vehicle .wool is a fabric .
+a duck is an animal .denim is a fabric .
+wool is a fabric .a lemon is a fruit .
+a swan is a bird .an owl is a bird .
+every robin is a bird .
+robins are birds .
+this robin is a bird too .
+we call the robin a bird .
+the robin is one kind of bird .
+my robin is a bird .
+that robin is a bird .
+the robin is a kind of bird .
+all robins are birds .
+the small robin is a bird .
+the big robin is a bird .
+the young robin is a bird .
+the old robin is a bird .
+the little robin is a bird .
+the wild robin is a bird .
+the fat robin is a bird .
+the thin robin is a bird .
+the small robin is a kind of bird .
+the big robin is a kind of bird .
+the young robin is a kind of bird .
+the old robin is a kind of bird .
+the little robin is a kind of bird .
+the wild robin is a kind of bird .
+the fat robin is a kind of bird .
+the thin robin is a kind of bird .
+the robin in the garden is a bird .
+the robin in the river is a bird .
+the robin in the market is a bird .
+the robin in the kitchen is a bird .
+the robin in the field is a bird .
+the robin in the shop is a bird .
+the robin at the garden is a bird .
+the robin at the river is a bird .
+the robin at the market is a bird .
+the robin at the kitchen is a bird .
+the robin at the field is a bird .
+the robin at the shop is a bird .
+every salmon is a fish .
+salmons are fishs .
+this salmon is a fish too .
+we call the salmon a fish .
+the salmon is one kind of fish .
+my salmon is a fish .
+that salmon is a fish .
+the salmon is a kind of fish .
+all salmons are fishs .
+the small salmon is a fish .
+the big salmon is a fish .
+the young salmon is a fish .
+the old salmon is a fish .
+the little salmon is a fish .
+the wild salmon is a fish .
+the fat salmon is a fish .
+the thin salmon is a fish .
+the small salmon is a kind of fish .
+the big salmon is a kind of fish .
+the young salmon is a kind of fish .
+the old salmon is a kind of fish .
+the little salmon is a kind of fish .
+the wild salmon is a kind of fish .
+the fat salmon is a kind of fish .
+the thin salmon is a kind of fish .
+the salmon in the garden is a fish .
+the salmon in the river is a fish .
+the salmon in the market is a fish .
+the salmon in the kitchen is a fish .
+the salmon in the field is a fish .
+the salmon in the shop is a fish .
+the salmon at the garden is a fish .
+the salmon at the river is a fish .
+the salmon at the market is a fish .
+the salmon at the kitchen is a fish .
+the salmon at the field is a fish .
+the salmon at the shop is a fish .
+every carrot is a vegetable .
+carrots are vegetables .
+this carrot is a vegetable too .
+we call the carrot a vegetable .
+the carrot is one kind of vegetable .
+my carrot is a vegetable .
+that carrot is a vegetable .
+the carrot is a kind of vegetable .
+all carrots are vegetables .
+the small carrot is a vegetable .
+the big carrot is a vegetable .
+the young carrot is a vegetable .
+the old carrot is a vegetable .
+the little carrot is a vegetable .
+the wild carrot is a vegetable .
+the fat carrot is a vegetable .
+the thin carrot is a vegetable .
+the small carrot is a kind of vegetable .
+the big carrot is a kind of vegetable .
+the young carrot is a kind of vegetable .
+the old carrot is a kind of vegetable .
+the little carrot is a kind of vegetable .
+the wild carrot is a kind of vegetable .
+the fat carrot is a kind of vegetable .
+the thin carrot is a kind of vegetable .
+the carrot in the garden is a vegetable .
+the carrot in the river is a vegetable .
+the carrot in the market is a vegetable .
+the carrot in the kitchen is a vegetable .
+the carrot in the field is a vegetable .
+the carrot in the shop is a vegetable .
+the carrot at the garden is a vegetable .
+the carrot at the river is a vegetable .
+the carrot at the market is a vegetable .
+the carrot at the kitchen is a vegetable .
+the carrot at the field is a vegetable .
+the carrot at the shop is a vegetable .
+every apple is a fruit .
+apples are fruits .
+this apple is a fruit too .
+we call the apple a fruit .
+the apple is one kind of fruit .
+my apple is a fruit .
+that apple is a fruit .
+the apple is a kind of fruit .
+all apples are fruits .
+the small apple is a fruit .
+the big apple is a fruit .
+the young apple is a fruit .
+the old apple is a fruit .
+the little apple is a fruit .
+the wild apple is a fruit .
+the fat apple is a fruit .
+the thin apple is a fruit .
+the small apple is a kind of fruit .
+the big apple is a kind of fruit .
+the young apple is a kind of fruit .
+the old apple is a kind of fruit .
+the little apple is a kind of fruit .
+the wild apple is a kind of fruit .
+the fat apple is a kind of fruit .
+the thin apple is a kind of fruit .
+the apple in the garden is a fruit .
+the apple in the river is a fruit .
+the apple in the market is a fruit .
+the apple in the kitchen is a fruit .
+the apple in the field is a fruit .
+the apple in the shop is a fruit .
+the apple at the garden is a fruit .
+the apple at the river is a fruit .
+the apple at the market is a fruit .
+the apple at the kitchen is a fruit .
+the apple at the field is a fruit .
+the apple at the shop is a fruit .
+the foal will become a horse .
+the foal grows into a horse .
+a foal grows into a horse .
+a foal grows into a horse .
+a calf grows into a cow .
+the calf grows into a cow .
+the calf grows into a cow .
+the calf will become a cow .
+a lamb is a young sheep .
+the lamb grows into a sheep .
+the lamb grows into a sheep .
+a lamb grows into a sheep .
+a kid is a young goat .
+a kid is a young goat .
+the kid grows into a goat .
+a kid is a young goat .
+a cub is a young bear .
+the cub will become a bear .
+the cub grows into a bear .
+a cub is a young bear .
+the chick will become a hen .
+the chick grows into a hen .
+a chick is a young hen .
+the chick grows into a hen .
+a duckling is a young duck .
+a duckling is a young duck .
+a duckling grows into a duck .
+the duckling grows into a duck .
+the piglet grows into a pig .
+the piglet will become a pig .
+the piglet grows into a pig .
+a piglet is a young pig .
+a chick grows into a hen .a kid grows into a goat .
+a lamb grows into a sheep .a duckling grows into a duck .
+a cub grows into a bear .a foal grows into a horse .
+a foal grows into a horse .a chick grows into a hen .
+a chick grows into a hen .a duckling grows into a duck .
+a piglet grows into a pig .a cub grows into a bear .
+a calf grows into a cow .a lamb grows into a sheep .
+a duckling grows into a duck .a chick grows into a hen .
+a chick grows into a hen .a lamb grows into a sheep .
+a duckling grows into a duck .a lamb grows into a sheep .
+a lamb grows into a sheep .a piglet grows into a pig .
+a chick grows into a hen .a duckling grows into a duck .
+a calf grows into a cow .a kid grows into a goat .
+a kid grows into a goat .a calf grows into a cow .
+a foal grows into a horse .a lamb grows into a sheep .
+a cub grows into a bear .a lamb grows into a sheep .
+a chick grows into a hen .a piglet grows into a pig .
+a foal grows into a horse .a chick grows into a hen .
+a foal grows into a horse .a calf grows into a cow .
+a lamb grows into a sheep .a piglet grows into a pig .
+a duckling grows into a duck .a kid grows into a goat .
+a chick grows into a hen .a foal grows into a horse .
+a lamb grows into a sheep .a kid grows into a goat .
+a kid grows into a goat .a cub grows into a bear .
+a foal grows into a horse .a piglet grows into a pig .
+a foal grows into a horse .a piglet grows into a pig .
+a chick grows into a hen .a lamb grows into a sheep .
+a calf grows into a cow .a cub grows into a bear .
+a chick grows into a hen .a cub grows into a bear .
+a kid grows into a goat .a piglet grows into a pig .
+a cub grows into a bear .a piglet grows into a pig .
+a lamb grows into a sheep .a calf grows into a cow .
+a chick grows into a hen .a cub grows into a bear .
+a piglet grows into a pig .a calf grows into a cow .
+a lamb grows into a sheep .a foal grows into a horse .
+a kid grows into a goat .a chick grows into a hen .
+a lamb grows into a sheep .a kid grows into a goat .
+a calf grows into a cow .a foal grows into a horse .
+a lamb grows into a sheep .a duckling grows into a duck .
+a cub grows into a bear .a kid grows into a goat .
+a cub grows into a bear .a foal grows into a horse .
+a foal grows into a horse .a chick grows into a hen .
+a chick grows into a hen .a cub grows into a bear .
+a piglet grows into a pig .a cub grows into a bear .
+a piglet grows into a pig .a calf grows into a cow .
+a lamb grows into a sheep .a foal grows into a horse .
+a foal grows into a horse .a piglet grows into a pig .
+a foal grows into a horse .a kid grows into a goat .
+a lamb grows into a sheep .a calf grows into a cow .
+a lamb grows into a sheep .a foal grows into a horse .
+a calf grows into a cow .a foal grows into a horse .
+a kid grows into a goat .a calf grows into a cow .
+a duckling grows into a duck .a calf grows into a cow .
+a duckling grows into a duck .a piglet grows into a pig .
+a lamb grows into a sheep .a cub grows into a bear .
+a cub grows into a bear .a foal grows into a horse .
+a cub grows into a bear .a chick grows into a hen .
+a foal grows into a horse .a chick grows into a hen .
+a piglet grows into a pig .a chick grows into a hen .
+a foal grows into a horse .a kid grows into a goat .
+a puppy is a young dog .
+a puppy is a baby dog .
+the puppy becomes a dog when it grows .
+a young dog is called a puppy .
+a baby dog is called a puppy .
+every puppy becomes a dog .
+the puppy will become a dog .
+the puppy became a dog .
+the puppy turned into a dog .
+the small puppy will become a dog .
+the big puppy will become a dog .
+the young puppy will become a dog .
+the old puppy will become a dog .
+the little puppy will become a dog .
+the wild puppy will become a dog .
+the fat puppy will become a dog .
+the thin puppy will become a dog .
+the small puppy became a dog .
+the big puppy became a dog .
+the young puppy became a dog .
+the old puppy became a dog .
+the little puppy became a dog .
+the wild puppy became a dog .
+the fat puppy became a dog .
+the thin puppy became a dog .
+the small puppy is a young dog .
+the big puppy is a young dog .
+the young puppy is a young dog .
+the old puppy is a young dog .
+the little puppy is a young dog .
+the wild puppy is a young dog .
+the fat puppy is a young dog .
+the thin puppy is a young dog .
+the puppy in the garden is a young dog .
+the puppy in the river is a young dog .
+the puppy in the market is a young dog .
+the puppy in the kitchen is a young dog .
+the puppy in the field is a young dog .
+the puppy in the shop is a young dog .
+a kitten is a young cat .
+a kitten is a baby cat .
+the kitten becomes a cat when it grows .
+a young cat is called a kitten .
+a baby cat is called a kitten .
+every kitten becomes a cat .
+the kitten will become a cat .
+the kitten became a cat .
+the kitten turned into a cat .
+the small kitten will become a cat .
+the big kitten will become a cat .
+the young kitten will become a cat .
+the old kitten will become a cat .
+the little kitten will become a cat .
+the wild kitten will become a cat .
+the fat kitten will become a cat .
+the thin kitten will become a cat .
+the small kitten became a cat .
+the big kitten became a cat .
+the young kitten became a cat .
+the old kitten became a cat .
+the little kitten became a cat .
+the wild kitten became a cat .
+the fat kitten became a cat .
+the thin kitten became a cat .
+the small kitten is a young cat .
+the big kitten is a young cat .
+the young kitten is a young cat .
+the old kitten is a young cat .
+the little kitten is a young cat .
+the wild kitten is a young cat .
+the fat kitten is a young cat .
+the thin kitten is a young cat .
+the kitten in the garden is a young cat .
+the kitten in the river is a young cat .
+the kitten in the market is a young cat .
+the kitten in the kitchen is a young cat .
+the kitten in the field is a young cat .
+the kitten in the shop is a young cat .

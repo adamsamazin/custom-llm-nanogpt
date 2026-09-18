@@ -1,0 +1,518 @@
+big is the opposite of small .
+the opposite of small is big .
+small is the opposite of big .
+the opposite of big is small .
+the opposite of tall is short .
+the opposite of tall is short .
+tall is the opposite of short .
+the opposite of tall is short .
+the opposite of short is long .
+the opposite of long is short .
+the opposite of long is short .
+short is the opposite of long .
+down is the opposite of up .
+the opposite of up is down .
+the opposite of down is up .
+the opposite of up is down .
+dry is the opposite of wet .
+the opposite of wet is dry .
+the opposite of wet is dry .
+the opposite of dry is wet .
+the opposite of light is dark .
+dark is the opposite of light .
+the opposite of light is dark .
+the opposite of dark is light .
+the opposite of day is night .
+the opposite of night is day .
+day is the opposite of night .
+night is the opposite of day .
+the opposite of slow is fast .
+the opposite of fast is slow .
+fast is the opposite of slow .
+the opposite of slow is fast .
+the opposite of heavy is light .
+the opposite of light is heavy .
+heavy is the opposite of light .
+the opposite of heavy is light .
+the opposite of early is late .
+the opposite of early is late .
+the opposite of late is early .
+late is the opposite of early .
+soft is the opposite of loud .
+loud is the opposite of soft .
+soft is the opposite of loud .
+soft is the opposite of loud .
+hard is the opposite of soft .
+hard is the opposite of soft .
+the opposite of soft is hard .
+the opposite of soft is hard .
+the opposite of closed is open .
+the opposite of open is closed .
+open is the opposite of closed .
+closed is the opposite of open .
+young is the opposite of old .
+old is the opposite of young .
+young is the opposite of old .
+the opposite of young is old .
+the opposite of clean is dirty .
+dirty is the opposite of clean .
+the opposite of dirty is clean .
+clean is the opposite of dirty .
+the opposite of square is round .
+square is the opposite of round .
+square is the opposite of round .
+the opposite of round is square .
+the opposite of warm is cool .
+warm is the opposite of cool .
+warm is the opposite of cool .
+warm is the opposite of cool .
+low is the opposite of high .
+low is the opposite of high .
+the opposite of high is low .
+the opposite of high is low .
+thick is the opposite of thin .
+thin is the opposite of thick .
+the opposite of thick is thin .
+the opposite of thick is thin .
+wide is the opposite of narrow .
+narrow is the opposite of wide .
+wide is the opposite of narrow .
+narrow is the opposite of wide .
+rich is the opposite of poor .
+the opposite of rich is poor .
+poor is the opposite of rich .
+rich is the opposite of poor .
+the opposite of sad is happy .
+the opposite of happy is sad .
+sad is the opposite of happy .
+the opposite of happy is sad .
+the opposite of sour is sweet .
+sweet is the opposite of sour .
+the opposite of sour is sweet .
+the opposite of sour is sweet .
+weak is the opposite of strong .
+weak is the opposite of strong .
+weak is the opposite of strong .
+the opposite of strong is weak .
+the opposite of far is near .
+far is the opposite of near .
+far is the opposite of near .
+near is the opposite of far .
+the opposite of bottom is top .
+bottom is the opposite of top .
+top is the opposite of bottom .
+bottom is the opposite of top .
+left is the opposite of right .
+right is the opposite of left .
+the opposite of right is left .
+the opposite of right is left .
+the opposite of push is pull .
+the opposite of pull is push .
+the opposite of pull is push .
+the opposite of pull is push .
+the opposite of stop is start .
+the opposite of start is stop .
+stop is the opposite of start .
+the opposite of stop is start .
+wet is the opposite of dry .
+wet is the opposite of dry .
+the opposite of wet is dry .
+the opposite of dry is wet .
+is it big or small ?
+big means not small .
+big is not small .
+small means not big .
+small means not big .
+big is not small .
+when it is not tall it is short .
+tall means not short .
+short means not tall .
+tall and short are opposites .
+one is tall and the other is short .
+tall means not short .
+is it long or short ?
+is it long or short ?
+is it long or short ?
+is it long or short ?
+short and long are opposites .
+one is long and the other is short .
+is it up or down ?
+up and down are opposites .
+when it is not down it is up .
+down and up are opposites .
+when it is not down it is up .
+one is up and the other is down .
+when it is not wet it is dry .
+dry and wet are opposites .
+wet is not dry .
+dry means not wet .
+wet and dry are opposites .
+dry and wet are opposites .
+light and dark are opposites .
+dark means not light .
+when it is not light it is dark .
+light means not dark .
+dark and light are opposites .
+light is not dark .
+night means not day .
+day and night are opposites .
+night and day are opposites .
+when it is not night it is day .
+night means not day .
+is it day or night ?
+when it is not fast it is slow .
+if something is not fast then it is slow .
+fast is not slow .
+slow means not fast .
+fast is not slow .
+one is fast and the other is slow .
+light and heavy are opposites .
+light and heavy are opposites .
+one is heavy and the other is light .
+one is heavy and the other is light .
+one is heavy and the other is light .
+one is heavy and the other is light .
+if something is not early then it is late .
+late and early are opposites .
+when it is not early it is late .
+late and early are opposites .
+early is not late .
+if something is not early then it is late .
+one is loud and the other is soft .
+when it is not loud it is soft .
+loud means not soft .
+loud and soft are opposites .
+when it is not soft it is loud .
+loud means not soft .
+hard is not soft .
+when it is not hard it is soft .
+hard means not soft .
+hard and soft are opposites .
+hard means not soft .
+if something is not hard then it is soft .
+closed and open are opposites .
+if something is not open then it is closed .
+open means not closed .
+open is not closed .
+when it is not open it is closed .
+open is not closed .
+when it is not old it is young .
+young means not old .
+young means not old .
+young means not old .
+young is not old .
+when it is not old it is young .
+dirty means not clean .
+when it is not dirty it is clean .
+when it is not dirty it is clean .
+is it clean or dirty ?
+when it is not dirty it is clean .
+when it is not dirty it is clean .
+round means not square .
+one is round and the other is square .
+round is not square .
+round and square are opposites .
+round and square are opposites .
+if something is not round then it is square .
+one is warm and the other is cool .
+if something is not warm then it is cool .
+when it is not cool it is warm .
+cool means not warm .
+warm is not cool .
+one is warm and the other is cool .
+high is not low .
+high is not low .
+low and high are opposites .
+when it is not low it is high .
+low and high are opposites .
+when it is not low it is high .
+one is thick and the other is thin .
+when it is not thin it is thick .
+thick is not thin .
+when it is not thin it is thick .
+one is thick and the other is thin .
+thin means not thick .
+narrow means not wide .
+wide and narrow are opposites .
+one is wide and the other is narrow .
+wide is not narrow .
+narrow and wide are opposites .
+narrow and wide are opposites .
+is it rich or poor ?
+when it is not poor it is rich .
+one is rich and the other is poor .
+when it is not rich it is poor .
+is it rich or poor ?
+rich is not poor .
+sad and happy are opposites .
+is it happy or sad ?
+one is happy and the other is sad .
+is it happy or sad ?
+sad and happy are opposites .
+when it is not happy it is sad .
+when it is not sweet it is sour .
+when it is not sweet it is sour .
+sweet and sour are opposites .
+when it is not sweet it is sour .
+sour means not sweet .
+one is sweet and the other is sour .
+when it is not strong it is weak .
+weak means not strong .
+weak means not strong .
+one is strong and the other is weak .
+strong is not weak .
+when it is not strong it is weak .
+near means not far .
+near means not far .
+when it is not near it is far .
+near and far are opposites .
+near and far are opposites .
+far and near are opposites .
+top means not bottom .
+when it is not top it is bottom .
+is it top or bottom ?
+when it is not bottom it is top .
+when it is not bottom it is top .
+top and bottom are opposites .
+if something is not left then it is right .
+when it is not right it is left .
+if something is not left then it is right .
+left means not right .
+when it is not right it is left .
+right means not left .
+push is not pull .
+if something is not push then it is pull .
+push means not pull .
+is it push or pull ?
+when it is not push it is pull .
+push and pull are opposites .
+start is not stop .
+one is start and the other is stop .
+stop means not start .
+start means not stop .
+is it start or stop ?
+start means not stop .
+when it is not wet it is dry .
+wet means not dry .
+when it is not wet it is dry .
+wet means not dry .
+wet means not dry .
+wet and dry are opposites .
+one is hot and the other is cold .
+when it is not hot it is cold .
+cold means not hot .
+hot and cold are opposites .
+when it is not hot it is cold .
+when it is not hot it is cold .
+when it is not empty it is full .
+one is empty and the other is full .
+full means not empty .
+full and empty are opposites .
+empty means not full .
+empty and full are opposites .
+noisy is not quiet .
+noisy means not quiet .
+noisy means not quiet .
+noisy means not quiet .
+one is noisy and the other is quiet .
+quiet and noisy are opposites .
+this house is big .that coin is small .
+the hill was big and the mouse was small .
+the truck was big and the mouse was small .
+this truck is big .that seed is small .
+the cup is not big .it is small .
+this whale is big .that seed is small .
+the truck is not small .it is big .
+the cup is not big .it is small .
+this dog is wet .that desert is dry .
+this road is wet .that desert is dry .
+a dog feels wet and a desert feels dry .
+the dog is very wet .
+this grass is wet .that leaf is dry .
+the leaf is not wet .it is dry .
+a grass feels wet and a towel feels dry .
+the leaf is very dry .
+the turtle is very slow .
+the snail is very slow .
+the bus is not fast .it is slow .
+the river is not slow .it is fast .
+the horse was fast and the bus was slow .
+the car was fast and the turtle was slow .
+the car is very fast .
+the car is very fast .
+the stone is very heavy .
+the leaf is not heavy .it is light .
+the truck is very heavy .
+the box is not light .it is heavy .
+the box is heavy but the paper is light .
+the box was heavy and the paper was light .
+the stone is very heavy .
+the box is heavy but the kite is light .
+the start is very early .
+this train is early .that bus is late .
+the bird is very early .
+this bird is early .that night is late .
+this start is early .that dinner is late .
+a start feels early and a train feels late .
+the start is early but the dinner is late .
+the start is early but the bus is late .
+the wool is not loud .it is soft .
+the bell was loud and the blanket was soft .
+the crowd is not soft .it is loud .
+this horn is loud .that wool is soft .
+a horn feels loud and a wool feels soft .
+the crowd is loud but the voice is soft .
+the bell was loud and the pillow was soft .
+a horn feels loud and a blanket feels soft .
+the shirt is not dirty .it is clean .
+the floor is very clean .
+a shirt feels clean and a window feels dirty .
+the floor is not clean .it is dirty .
+the floor is very dirty .
+this floor is clean .that floor is dirty .
+this shirt is clean .that floor is dirty .
+the floor is clean but the plate is dirty .
+the coin was round and the table was square .
+this cup is round .that window is square .
+the plate was round and the box was square .
+a coin feels round and a box feels square .
+the cup is not square .it is round .
+the ball is very round .
+a plate feels round and a box feels square .
+the window is not round .it is square .
+a bath feels warm and a river feels cool .
+a blanket feels warm and a wind feels cool .
+the blanket was warm and the drink was cool .
+a blanket feels warm and a shade feels cool .
+the bread is not cool .it is warm .
+the coat is warm but the shade is cool .
+the bath is very warm .
+the blanket was warm and the wind was cool .
+the desert is not wet .it is dry .
+the dog is very wet .
+this grass is wet .that towel is dry .
+the road is not dry .it is wet .
+the towel is very wet .
+the towel was wet and the towel was dry .
+the grass is very wet .
+the dog is wet but the towel is dry .
+the snow is not hot .it is cold .
+this sand is hot .that snow is cold .
+the oven is very hot .
+the wind is not hot .it is cold .
+this soup is hot .that river is cold .
+the snow is not hot .it is cold .
+the water is not hot .it is cold .
+the river is not hot .it is cold .
+this sand is hot .that wind is cold .
+the tea was hot and the snow was cold .
+the tea is very hot .
+the sand is very hot .
+this soup is hot .that water is cold .
+the oven is not cold .it is hot .
+the soup is hot but the ice is cold .
+the oven is not cold .it is hot .
+the sand is not cold .it is hot .
+the wind is very cold .
+the soup is hot but the water is cold .
+the sand is not cold .it is hot .
+the soup is hot but the ice is cold .
+the water is very cold .
+the soup is not cold .it is hot .
+the snow is very cold .
+the oven is hot but the water is cold .
+the sand is hot but the snow is cold .
+this sand is hot .that ice is cold .
+the wind is very cold .
+the tea is not cold .it is hot .
+this soup is hot .that wind is cold .
+the soup is not cold .it is hot .
+a oven feels hot and a river feels cold .
+the sand is hot but the wind is cold .
+a sun feels hot and a ice feels cold .
+the wind is very cold .
+the sand is very hot .
+this sand is hot .that wind is cold .
+the sand is not cold .it is hot .
+a soup feels hot and a ice feels cold .
+the ice is not hot .it is cold .
+the bag is not empty .it is full .
+the room is not full .it is empty .
+this bag is empty .that jar is full .
+a bag feels empty and a cup feels full .
+the room was empty and the jar was full .
+the bag is very full .
+this room is empty .that jar is full .
+the cup is not full .it is empty .
+this bus is empty .that jar is full .
+the room is very full .
+the cup is very empty .
+a jar feels empty and a room feels full .
+this jar is empty .that jar is full .
+this cup is empty .that room is full .
+the bus is not empty .it is full .
+the bus is empty but the room is full .
+the bag is not full .it is empty .
+the jar is not empty .it is full .
+the cup is not full .it is empty .
+the bus is not empty .it is full .
+this bag is empty .that cup is full .
+the bag was empty and the bag was full .
+the bus is empty but the cup is full .
+this cup is empty .that bag is full .
+the jar is very empty .
+the bag is not full .it is empty .
+the cup was empty and the cup was full .
+this room is empty .that jar is full .
+this bus is empty .that room is full .
+the jar is empty but the cup is full .
+the room is not empty .it is full .
+this room is empty .that room is full .
+this bus is empty .that jar is full .
+the jar is empty but the bag is full .
+the bus is empty but the room is full .
+the bag is not empty .it is full .
+the bus is very empty .
+the bus is very full .
+the bag is empty but the bus is full .
+the bus is very full .
+the radio is noisy but the garden is quiet .
+the drum was noisy and the lake was quiet .
+this market is noisy .that room is quiet .
+this drum is noisy .that garden is quiet .
+the radio is very noisy .
+the library is not noisy .it is quiet .
+this crowd is noisy .that garden is quiet .
+the radio is noisy but the room is quiet .
+the crowd is not quiet .it is noisy .
+the street is noisy but the garden is quiet .
+the crowd is not quiet .it is noisy .
+a street feels noisy and a library feels quiet .
+the room is very quiet .
+a street feels noisy and a library feels quiet .
+a drum feels noisy and a garden feels quiet .
+the crowd is noisy but the room is quiet .
+the room is very quiet .
+a drum feels noisy and a room feels quiet .
+the street was noisy and the library was quiet .
+the library is very quiet .
+this radio is noisy .that library is quiet .
+the radio is very noisy .
+the radio is noisy but the library is quiet .
+the garden is very quiet .
+this crowd is noisy .that room is quiet .
+the night is not noisy .it is quiet .
+this street is noisy .that room is quiet .
+the radio is not quiet .it is noisy .
+the street was noisy and the room was quiet .
+this street is noisy .that night is quiet .
+the lake is very quiet .
+the night is very quiet .
+the crowd is very noisy .
+the drum is very noisy .
+the street was noisy and the lake was quiet .
+the street was noisy and the garden was quiet .
+the radio is not quiet .it is noisy .
+the room is not noisy .it is quiet .
+a market feels noisy and a room feels quiet .
+a street feels noisy and a night feels quiet .
