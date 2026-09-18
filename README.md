@@ -1,6 +1,6 @@
 # Building a Custom LLM with nanoGPT — Class 4
 
-Training Karpathy's nanoGPT from scratch on a word-token corpus, twice: once on the
+Training Karpathy's nanoGPT from scratch on a word-token corpus. Using Claude, I did this twice: once on the
 supplied classroom sentences, once on those sentences plus teaching material I wrote for
 four of the eight extension skills. Both models were tested on the same unchanged 48-case
 language eval before and after training, and the second model is wired to a terminal chat.
@@ -49,7 +49,7 @@ unseen benchmark.
 ### The three choices
 
 **Corpus.** Experiment 1 used the supplied classroom generator alone, with `corpus/`
-empty. Experiment 2 kept those sentences and added four UTF-8 text files I wrote for the
+empty. Experiment 2 kept those sentences and added four UTF-8 text files Claude and I wrote for the
 extension skills *opposites*, *categories and analogies*, *grammar*, and *negation* — 2,228
 new unique passages. All four are my own text (generated from word lists and sentence
 frames by `make_corpus.py`, the same way the notebook builds its classroom sentences), so
